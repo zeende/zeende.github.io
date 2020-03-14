@@ -1,13 +1,13 @@
 {
     "githubUsername": "zeende",
     "blogTitle": "Zeende",
-    "blogDescribe": "欢迎来到个人博客。",
+    "blogDescribe": "如果有bug出现，一定不会是我程序的原因，要不考虑一下硬件问题？",
     "htmlTitle": "zeende的博客",
     "fontColor": "#ffffff",
     "useBackgroundImage": false,
     "backgroundColorLeft": "#2690F9",
     "backgroundColorRight": "#FC2D2D",
-    "audioUrl": "music.163.com/outchain/player?type=2&id=1373266565&auto=1&height=66",
+    "audioUrl": "http://music.163.com/song/media/outer/url?id=281951.mp3",
     "mini": false,
     "webSites":[
         {"name":"v2ex" , "url":"https://www.v2ex.com/member/laziji"}
